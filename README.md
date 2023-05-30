@@ -1,2 +1,2 @@
-# quiz-react-app
+# Quiz App
  
